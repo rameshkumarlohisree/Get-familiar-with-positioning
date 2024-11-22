@@ -1,0 +1,132 @@
+<html>
+    <head>
+       <style>
+        h1{text-align: center;}
+        .c1{
+            opacity: 1;
+            position: static;
+            width: 500px;
+            height: 230px;
+            top: 20px;
+            left: 20px;
+            border: 5px solid goldenrod;
+            background-color: rgb(157, 157, 254);
+            padding: 10px 10px 10px 10px;
+            margin: 20px 20px 20px 20px;
+        }
+        .c2{
+            opacity: 1;
+            position: sticky;
+            width: 300px;
+            height: 150px;
+            top: 10px;
+            left: 10px;
+            border: 5px solid green;
+            background-color: pink;
+            padding: 10px 10px 10px 10px;
+            margin: 20px 20px 20px 20px;
+        }.c3{
+            opacity: 0.8;
+            position: relative;
+            width: 500px;
+            height: 230px;
+            top: 10px;
+            left: 10px;
+            border: 5px solid blue;
+            background-color: sandybrown;
+            padding: 10px 10px 10px 10px;
+            margin: 20px 20px 20px 20px;
+        }.c4{
+            opacity: 1;
+            position: absolute;
+            width: 500px;
+            height: 150px;
+            top: 500px;
+            left: 1px;
+            border: 5px solid rgb(45, 2, 120);
+            background-color: plum;
+            padding: 10px 10px 10px 10px;
+            margin: 20px 20px 20px 20px;
+        }.c5{
+            opacity: 0.6;
+            position: fixed;
+            width: 500px;
+            height: 200px;
+            top: 350px;
+            left: 10px;
+            border: 5px solid black;
+            background-color:;
+            padding: 10px 10px 10px 10px;
+            margin: 20px 20px 20px 20px;
+            color: rgb(199, 5, 5);
+            font-style:bold italic;
+        }
+       </style>
+    </head>
+    <body>
+      <h1>Tourist Places In India</h1>
+      <ul>
+        <li><h2>Gokarna</h2></li>
+      </ul>
+      <img src="download.jpg" alt="Image not found">
+      <div class="c1">The Mahabaleshwar Temple, Gokarna is a 4th-century CE Hindu temple located in Gokarna, Uttara Kannada district,
+    Karnataka state, India which is built in the classical Dravidian architectural style. It is a site of religious
+    pilgrimage. The temple faces the Gokarna beach on the Arabian Sea. The temple deifies the Pranalinga ("the reality of
+    God which can be captured by the mind") also called Atmalinga or Shiva Linga[1] In legend, it is said that the deity of
+    the temple will bestow immense blessings to devotees, even to those who only glimpse it.[2][3] Currently the
+    administrative charge of the temple is with an Overseeing Committee under the Chairmanship of Justice BN Srikrishna, a
+    Retired Justice of the Hon'ble Supreme Court of India.[4] It is one of the 275 paadal petra sthalams expounded in the
+    Tevaram, a sacred Tamil Shaivite text written during the 6th and 7th centuries by 63 saints called Nayanars.</div>
+      <ul>
+        <li><h2>Munnar</h2></li>
+      </ul>
+      <img src="download (2).jpg" alt="Image not found">
+    <div class="c2">Munnar (IPA: [muːn̪ːɐːr]) is a town and hill station located in the Idukki district of the southwestern Indian state of
+    Kerala. Munnar is situated at around 1,600 metres (5,200 ft) above mean sea level,[4] in the Western Ghats mountain
+    range. Munnar is also called the "Kashmir of South India" and is a popular honeymoon destination.</div>
+    <ul>
+        <li>
+            <h2>Goa</h2>
+        </li>
+    </ul>
+    <img src="download (1).jpg" alt="Image not found">
+    <div class="c3">Goa (/ˈɡoʊə/;[9] Konkani: [ɡõːj]; Portuguese: [ˈɡoɐ] ⓘ) is a state on the southwestern coast of India within the Konkan
+    region, geographically separated from the Deccan highlands by the Western Ghats.[10][11] It is bound by the Indian
+    states of Maharashtra to the north, and Karnataka to the east and south, with the Arabian Sea in the west. It is India's
+    smallest state by area and fourth-smallest by population. Goa has the highest GDP per capita among all Indian
+    states,[6][12] two and a half times as high as the GDP per capita of the country as a whole.[13] The Eleventh Finance
+    Commission of India named Goa the best-placed state because of its infrastructure, and India's National Commission on
+    Population rated it as having the best quality of life in India (based on the commission's "12 Indicators").[13] It is
+    the second-highest ranking among Indian states in the human development index.
+    
+    <div class="c4">The Taj Mahal (/ˌtɑːdʒ məˈhɑːl, ˌtɑːʒ -/ TAHJ mə-HAHL, TAHZH -⁠, Hindi: [taːdʒ ˈmɛɦ(ɛ)l]; lit. 'Crown of
+        the Palace') is
+        an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was
+        commissioned
+        in 1631 by the fifth Mughal emperor, Shah Jahan (r. 1628–1658) to house the tomb of his beloved wife, Mumtaz Mahal;
+        it
+        also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which
+        includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+    </div>
+    </div>
+        <ul>
+            <li>
+                <h2>Taj Mahal</h2>
+            </li>
+        </ul>
+        <img src="download (3).jpg" alt="Image not found"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <ul>
+        <li>   
+            <h2>Varanasi</h2>
+        </li>
+    </ul>
+    <img src="images.jpg" alt="Image not found">
+    <div class="c5">Varanasi (ISO: Vārāṇasī, Hindi: [ʋaːˈraːɳəsi] ⓘ;[a] also Benares, Banaras (Banārasa [bəˈnaːrəs] ⓘ)[13][14][15] or Kashi
+    (Kāśī [ˈka:ʃi] ⓘ)[16]) is a city on the Ganges river in northern India that has a central place in the traditions of
+    pilgrimage, death, and mourning in the Hindu world.[17][b] The city has a syncretic tradition of Islamic artisanship
+    that underpins its religious tourism.[20] Located in the middle-Ganges valley in the southeastern part of the state of
+    Uttar Pradesh, Varanasi lies on the left bank of the river. It is 692 kilometres (430 mi) to the southeast of India's
+    capital New Delhi and 320 kilometres (200 mi) to the southeast of the state capital, Lucknow. It lies 121 kilometres (75
+    mi) downstream of Prayagraj, where the confluence with the Yamuna river is another major Hindu pilgrimage site.</div>
+    </body>
+</html>
